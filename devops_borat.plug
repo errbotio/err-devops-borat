@@ -1,0 +1,6 @@
+[Core]
+Name = DEVOPS_BORAT
+Module = devops_borat
+
+[Documentation]
+Description = displays a random @DEVOPS_BORAT quote
