@@ -1,5 +1,5 @@
-devops_borat - random funny quotes about development
-====================================================
+devops_borat - random funny quotes about software development
+=============================================================
 
 For more information about err you can find it here: https://github.com/gbin/err
 
