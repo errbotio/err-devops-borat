@@ -11,12 +11,12 @@ Dependencies::
 
 If you have the admin rights on an err chatbot simply use::
 
-    !install git@github.com:gbin/err-devops_borat.git
+    !install git://github.com/gbin/err-devops_borat.git
 
 in order to install the plugin.
 Then !help to see the available commands and their explanation.
 
 **Credits**
 
-Vincent Alsteen https://twitter.com/#!/_v1nc3nt_
+Vincent Alsteen https://github.com/valsteen
 
