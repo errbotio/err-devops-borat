@@ -1,7 +1,7 @@
 from random import choice
 from feedparser import parse
-from botplugin import BotPlugin
-from jabberbot import botcmd
+from errbot.botplugin import BotPlugin
+from errbot.jabberbot import botcmd
 
 class DevOpsBorat(BotPlugin):
     @botcmd
