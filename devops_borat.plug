@@ -1,5 +1,5 @@
 [Core]
-Name = DEVOPS_BORAT
+Name = DevOpsBorat
 Module = devops_borat
 
 [Documentation]
