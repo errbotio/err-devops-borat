@@ -1,1 +1,1 @@
-feedparser
+feedparser==5.1.2
